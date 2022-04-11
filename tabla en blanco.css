@@ -1,0 +1,20 @@
+table, th, td{
+    border: 0px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+}
+td{
+    width: 400px;
+    float: center;
+
+}
+img{
+    float: center;
+    width: 350px;
+    height: 350px;
+}
+th{
+    background-color: rgb(252, 252, 252);
+}
+h3{
+    float: center;
+}
